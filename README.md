@@ -2,7 +2,7 @@
 
 FrostBite adalah sebuah website E-Commerce modern untuk penjualan makanan beku (Frozen Food). Dibangun menggunakan PHP Native yang ringan dengan antarmuka yang cantik dan responsif berkat Tailwind CSS.
 
-<!-- Ganti dengan screenshot asli nanti -->
+![Dashboard Preview](assets/img/web1.png)
 
 🚀 Fitur Utama
 
